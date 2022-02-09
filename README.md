@@ -11,4 +11,4 @@ I Study *Computer Science* at the Faculty of
 - Python
 - ASP.NET
 
-Learn the fundamentals of a good developer mindset in 15 minutes and the key points that every developer must master.
+## Learn the fundamentals of a good developer mindset in 15 minutes and the key points that every developer must master
